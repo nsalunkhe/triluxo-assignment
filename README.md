@@ -4,11 +4,11 @@
 
 ### You can see my collection of API requests in the Postman app
 
-[Postman Collection](https://www.postman.com/telecoms-explorer-65218783/workspace/my-workspace/collection/31544331-2b2d46ab-22a2-463b-99e9-2ae2bf79b262?action=share&creator=31544331){:target="_blank"}
+[Postman Collection of API's](https://www.postman.com/telecoms-explorer-65218783/workspace/my-workspace/collection/31544331-2b2d46ab-22a2-463b-99e9-2ae2bf79b262?action=share&creator=31544331)
 
 ### I have Deployed my backend on render.com
 
-[Render Deployment](https://triluxo-41hd.onrender.com/api/books){:target="_blank"}
+[Render Deployment](https://triluxo-41hd.onrender.com/api/books)
 
 ## Video of demonstrating all the APIs
 
