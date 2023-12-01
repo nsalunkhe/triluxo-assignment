@@ -1,6 +1,6 @@
 # triluxo-assignment
 
-<h2>Submission</h2>
+<h2>Submission Links</h2>
 
 <h3>You can see my collection of API requests in Postman app<h3></h3> 
 
